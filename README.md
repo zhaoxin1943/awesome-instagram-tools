@@ -33,6 +33,7 @@ Tools for searching profiles, hashtags, and discovering target audiences.
 Tools for monitoring profile changes, account activities, and follower growth.
 
 - [Iconosquare](https://pro.iconosquare.com/) - Professional analytics and management platform for Instagram.
+- [InstaPV](https://www.instapv.ai/) - Anonymous Instagram viewer for public stories, posts, reels, highlights and recent-followed timelines. No login, no password, no trace.
 - [RecentFollowed](https://recentfollowed.net/en) - Tool for discovering and inspecting recently followed Instagram accounts for monitoring and profile research.
 - [Social Blade](https://socialblade.com/instagram/) - Track statistics for any Instagram user including follower growth and engagement rate.
 - [Squarelovin](https://squarelovin.com/instagram-analytics/) - Detailed Instagram analytics and visual marketing tool.
