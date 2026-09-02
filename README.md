@@ -52,6 +52,7 @@ Tools for extracting data or downloading media content from public profiles.
 Tools for generating photos, avatars, and AI videos for Instagram posts and Reels.
 
 - [RenderPop](https://www.renderpop.app/) - Free browser-based AI image and video generator to create social media visuals, portraits, and dance motion videos without forced sign-up.
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) - Agent skills for adapting, reviewing, scheduling, and publishing approved Instagram content through an API and hosted MCP.
 
 ## Libraries & SDKs
 
