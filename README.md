@@ -51,6 +51,7 @@ Tools for extracting data or downloading media content from public profiles.
 ## Content Creation & AI Tools
 Tools for generating photos, avatars, and AI videos for Instagram posts and Reels.
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Open-source local toolkit that lets coding agents compose, edit, caption, and render vertical videos from editable timelines.
 - [RenderPop](https://www.renderpop.app/) - Free browser-based AI image and video generator to create social media visuals, portraits, and dance motion videos without forced sign-up.
 
 ## Libraries & SDKs
