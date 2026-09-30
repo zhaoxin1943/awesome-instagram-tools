@@ -53,6 +53,7 @@ Tools for extracting data or downloading media content from public profiles.
 Tools for generating photos, avatars, and AI videos for Instagram posts and Reels.
 
 - [RenderPop](https://www.renderpop.app/) - Free browser-based AI image and video generator to create social media visuals, portraits, and dance motion videos without forced sign-up.
+- [Instagram Transcript Generator](https://www.ruanjiange.com/instagram-transcript/) - Transcribes an Instagram video or audio file to text in the browser using Whisper, with no upload and no account, and exports TXT or SRT.
 
 ## Libraries & SDKs
 
