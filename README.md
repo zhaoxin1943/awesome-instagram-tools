@@ -34,6 +34,7 @@ Tools for searching profiles, hashtags, and discovering target audiences.
 
 Tools for monitoring profile changes, account activities, and follower growth.
 
+- [FastSocial Instagram Top Charts](https://fastsocial.co/most-followed-instagram-accounts) - Daily ranking of the most-followed Instagram accounts, with gainers, losers and an open dataset.
 - [Iconosquare](https://pro.iconosquare.com/) - Professional analytics and management platform for Instagram.
 - [RecentFollowed](https://recentfollowed.net/en) - Tool for discovering and inspecting recently followed Instagram accounts for monitoring and profile research.
 - [Social Blade](https://socialblade.com/instagram/) - Track statistics for any Instagram user including follower growth and engagement rate.
@@ -44,6 +45,7 @@ Tools for monitoring profile changes, account activities, and follower growth.
 Tools for extracting data or downloading media content from public profiles.
 
 - [Apify Instagram Scraper](https://apify.com/jaroslavsemanko/instagram-scraper) - Extract public data like profiles, posts, and comments via API.
+- [FastSocial Instagram Data API](https://fastsocial.co/instagram-api) - REST API and MCP server for public profiles, posts, reels and follower counts.
 - [Instaloader](https://github.com/instaloader/instaloader) - A tool to download pictures (or videos) along with their captions and other metadata from Instagram.
 - [Osintgram](https://github.com/Datalux/Osintgram) - Offensive reconnaissance tool on Instagram profiles designed for OSINT researchers.
 - [PhantomBuster](https://phantombuster.com/automations/instagram) - Cloud-based automation tool to extract data and automate actions.
