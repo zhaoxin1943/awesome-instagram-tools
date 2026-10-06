@@ -10,6 +10,7 @@
 
 - [Discovery & Search](#discovery--search)
 - [Tracking & Monitoring](#tracking--monitoring)
+- [Manual Metric Calculations](#manual-metric-calculations)
 - [Scrapers & Downloaders](#scrapers--downloaders)
 - [Content Creation & AI Tools](#content-creation--ai-tools)
 - [Libraries & SDKs](#libraries--sdks)
@@ -38,6 +39,12 @@ Tools for monitoring profile changes, account activities, and follower growth.
 - [RecentFollowed](https://recentfollowed.net/en) - Tool for discovering and inspecting recently followed Instagram accounts for monitoring and profile research.
 - [Social Blade](https://socialblade.com/instagram/) - Track statistics for any Instagram user including follower growth and engagement rate.
 - [Squarelovin](https://squarelovin.com/instagram-analytics/) - Detailed Instagram analytics and visual marketing tool.
+
+## Manual Metric Calculations
+
+Tools for calculating metrics from counts you already have, without fetching profiles.
+
+- [AcheterSuiveurs.fr Engagement Calculator](https://achetersuiveurs.fr/tools/engagement-rate) - French-language manual engagement percentage from likes, comments and followers, reach, or views.
 
 ## Scrapers & Downloaders
 
