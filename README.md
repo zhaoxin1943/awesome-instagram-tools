@@ -44,6 +44,7 @@ Tools for monitoring profile changes, account activities, and follower growth.
 Tools for extracting data or downloading media content from public profiles.
 
 - [Apify Instagram Scraper](https://apify.com/jaroslavsemanko/instagram-scraper) - Extract public data like profiles, posts, and comments via API.
+- [ig-harvester](https://github.com/anurag-panda-dev/ig-harvester) - Playwright-based Instagram OSINT harvester that collects posts, comments, followers and full-resolution images through your own logged-in Chrome, with JSON/CSV/SQLite export and a live analysis dashboard.
 - [Instaloader](https://github.com/instaloader/instaloader) - A tool to download pictures (or videos) along with their captions and other metadata from Instagram.
 - [Osintgram](https://github.com/Datalux/Osintgram) - Offensive reconnaissance tool on Instagram profiles designed for OSINT researchers.
 - [PhantomBuster](https://phantombuster.com/automations/instagram) - Cloud-based automation tool to extract data and automate actions.
