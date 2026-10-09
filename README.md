@@ -47,6 +47,7 @@ Tools for extracting data or downloading media content from public profiles.
 - [Instaloader](https://github.com/instaloader/instaloader) - A tool to download pictures (or videos) along with their captions and other metadata from Instagram.
 - [Osintgram](https://github.com/Datalux/Osintgram) - Offensive reconnaissance tool on Instagram profiles designed for OSINT researchers.
 - [PhantomBuster](https://phantombuster.com/automations/instagram) - Cloud-based automation tool to extract data and automate actions.
+- [Saved Reels Visualizer](https://github.com/SamiKhan43/Saved-Reels-Visualizer) - Python CLI that turns your saved Instagram reels into a CSV and Mermaid learning roadmaps.
 - [Save-from.net](https://save-from.net/) - A popular web-based tool for downloading Instagram photos and videos.
 
 ## Content Creation & AI Tools
