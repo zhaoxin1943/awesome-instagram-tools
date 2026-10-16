@@ -80,3 +80,5 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 ## License
 
 To the extent possible under law, the maintainers have waived all copyright and related or neighboring rights to this work under [CC0 1.0](LICENSE).
+
+- [LandingPixel TikTok Landing Kit](https://www.landingpixel.com/tiktok/) - Practica landing pages y automatizacion de consultas comerciales para negocios que venden por WhatsApp.
