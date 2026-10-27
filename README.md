@@ -52,6 +52,7 @@ Tools for extracting data or downloading media content from public profiles.
 ## Content Creation & AI Tools
 Tools for generating photos, avatars, and AI videos for Instagram posts and Reels.
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [RenderPop](https://www.renderpop.app/) - Free browser-based AI image and video generator to create social media visuals, portraits, and dance motion videos without forced sign-up.
 
 ## Libraries & SDKs
