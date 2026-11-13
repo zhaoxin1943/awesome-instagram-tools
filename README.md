@@ -37,6 +37,7 @@ Tools for monitoring profile changes, account activities, and follower growth.
 - [Iconosquare](https://pro.iconosquare.com/) - Professional analytics and management platform for Instagram.
 - [RecentFollowed](https://recentfollowed.net/en) - Tool for discovering and inspecting recently followed Instagram accounts for monitoring and profile research.
 - [Social Blade](https://socialblade.com/instagram/) - Track statistics for any Instagram user including follower growth and engagement rate.
+- [SocialSleuth](https://socialsleuth.xyz/) - Monitor publicly available Instagram account activity with baseline and weekly reports, AI insights, and Story archiving.
 - [Squarelovin](https://squarelovin.com/instagram-analytics/) - Detailed Instagram analytics and visual marketing tool.
 
 ## Scrapers & Downloaders
