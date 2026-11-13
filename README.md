@@ -25,6 +25,7 @@ Tools for searching profiles, hashtags, and discovering target audiences.
 
 - [Brand24](https://brand24.com/) - AI-driven social listening tool to track brand mentions and hashtags.
 - [HypeAuditor](https://hypeauditor.com/) - AI-powered audience analytics to help choose the best influencers for your campaigns.
+- [IGDataHub](https://igdatahub.com/influencer-search/) - Instagram influencer search, free public-profile lookup, creator comparison and follower-list export to CSV.
 - [IgQuery](https://igquery.com) - Optimize Instagram search phrases for creator discovery, local discovery, competitor research, and content inspiration.
 - [IGViewer](https://www.igrecent.com/) - Browser-based tool to view public Instagram profiles, active stories anonymously, and download media.
 - [Modash](https://www.modash.io/) - Discovery tool to find Every Creator on Earth for your influencer marketing.
