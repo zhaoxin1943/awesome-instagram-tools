@@ -27,6 +27,7 @@ Tools for searching profiles, hashtags, and discovering target audiences.
 - [HypeAuditor](https://hypeauditor.com/) - AI-powered audience analytics to help choose the best influencers for your campaigns.
 - [IgQuery](https://igquery.com) - Optimize Instagram search phrases for creator discovery, local discovery, competitor research, and content inspiration.
 - [IGViewer](https://www.igrecent.com/) - Browser-based tool to view public Instagram profiles, active stories anonymously, and download media.
+- [iStoryTracker](https://istorytracker.com/) - Anonymous Instagram Story viewer for public accounts (no Instagram login); optional paid Story tracking and archive.
 - [Modash](https://www.modash.io/) - Discovery tool to find Every Creator on Earth for your influencer marketing.
 - [Sprout Social](https://sproutsocial.com/) - Comprehensive platform for social listening, engagement, and analytics.
 
