@@ -52,6 +52,7 @@ Tools for extracting data or downloading media content from public profiles.
 ## Content Creation & AI Tools
 Tools for generating photos, avatars, and AI videos for Instagram posts and Reels.
 
+- [Ad Multiplier](https://admultipliers.com/) - Creates visual versions of an existing short video ad for manual upload to Instagram, with optional original audio retention.
 - [RenderPop](https://www.renderpop.app/) - Free browser-based AI image and video generator to create social media visuals, portraits, and dance motion videos without forced sign-up.
 
 ## Libraries & SDKs
