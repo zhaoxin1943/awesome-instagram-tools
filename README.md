@@ -53,6 +53,7 @@ Tools for extracting data or downloading media content from public profiles.
 Tools for generating photos, avatars, and AI videos for Instagram posts and Reels.
 
 - [RenderPop](https://www.renderpop.app/) - Free browser-based AI image and video generator to create social media visuals, portraits, and dance motion videos without forced sign-up.
+- [Wavegrain](https://wavegrain.com/?utm_source=awesome-instagram-tools) - Makes curated Instagram carousels and TikTok slideshows for your brand in its own voice with your photos, then schedules and posts them.
 
 ## Libraries & SDKs
 
