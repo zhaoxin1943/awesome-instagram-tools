@@ -48,6 +48,7 @@ Tools for extracting data or downloading media content from public profiles.
 - [Osintgram](https://github.com/Datalux/Osintgram) - Offensive reconnaissance tool on Instagram profiles designed for OSINT researchers.
 - [PhantomBuster](https://phantombuster.com/automations/instagram) - Cloud-based automation tool to extract data and automate actions.
 - [Save-from.net](https://save-from.net/) - A popular web-based tool for downloading Instagram photos and videos.
+- [Stories Download](https://storiesdownload.com/) - Web tool that saves public Instagram Stories, Reels and posts in HD without logging in; it only works when Instagram serves the file without sign-in, so private and expired Stories are not supported.
 
 ## Content Creation & AI Tools
 Tools for generating photos, avatars, and AI videos for Instagram posts and Reels.
